@@ -2,7 +2,7 @@
 # Messenger Template used for Host Notifications
 #
 #
-# Mail starts here --->
+# Message starts here --->
 *** [% NOTIFICATIONTYPE %] *** [% HOSTNAME %] is [% HOSTSTATE %]
 
 #--HOST-ALERT----------------------
