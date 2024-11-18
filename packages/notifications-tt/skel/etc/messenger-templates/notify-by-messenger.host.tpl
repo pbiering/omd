@@ -3,7 +3,7 @@
 #
 #
 # Message starts here --->
-*** [% NOTIFICATIONTYPE %] *** [% HOSTNAME %] is [% HOSTSTATE %]
+*** [% NOTIFICATIONTYPE %] *** [% HOSTNAME %] is [% HOSTSTATE %] (sender [% PERL %]print `hostname`;[% END %])
 
 #--HOST-ALERT----------------------
 #- Hostname:    [% HOSTNAME %]

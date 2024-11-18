@@ -3,7 +3,7 @@
 #
 #
 # Message starts here --->
-*** [% NOTIFICATIONTYPE %] *** [% HOSTNAME %] / [% SERVICEDESC %] is [% SERVICESTATE %]
+*** [% NOTIFICATIONTYPE %] *** [% HOSTNAME %] / [% SERVICEDESC %] is [% SERVICESTATE %] (sender [% PERL %]print `hostname`;[% END %])
 #
 #--SERVICE-ALERT-------------------
 #-
